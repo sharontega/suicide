@@ -1,7 +1,1 @@
-# suicide
-
-The dataset was gotten from kaggle.
-
-The project is about suicide rate of different countries from 1985-2015
-
-The data was cleaned in jupyter notebook
+The dataset was sourced from Kaggle and focuses on suicide rates across various countries spanning the years 1985-2015. Data cleaning and analysis were conducted using Jupyter Notebook in Python, and the results are visually represented through Power BI visualizations.
